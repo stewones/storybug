@@ -1,7 +1,6 @@
 import { Component, Input } from '@angular/core';
-import { SomeService, Todo } from '@org/core';
 import { To } from '../types/to.type';
-
+import { SomeService, Todo } from '@org/core';
 @Component({
   selector: 'org-todos',
   templateUrl: './todos.component.html',

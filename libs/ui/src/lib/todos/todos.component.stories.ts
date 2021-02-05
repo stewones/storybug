@@ -1,4 +1,3 @@
-import { SomeService } from '@org/core';
 import { TodosComponent } from './todos.component';
 
 export default {

@@ -1,6 +1,6 @@
 import { Injectable, NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { AnotherOptions } from '../../../another/src';
+import { AnotherOptions } from '@org/another';
 
 @NgModule({
   imports: [CommonModule],
